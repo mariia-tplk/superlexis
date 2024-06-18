@@ -8,7 +8,7 @@ SICSS 2024 team working on LexisNexis data
 -   Difficult to narrow down the topic (the problem of overabundance)
 
     -   We ended up going with cycling!
-    -   6 countries and 2 newspaper, but we faced rate limits so went to 4 countries with relevance.
+    -   6 countries, 2 newspapers per country (left- and right-leaning), with about 1000 articles per country due to LexisNexis limits.
     - This leads to problems such as
     - Unbalanced classes.
     - How to pick up online or print versions?
