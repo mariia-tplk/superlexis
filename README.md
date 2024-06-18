@@ -3,7 +3,13 @@
 SICSS 2024 team working on LexisNexis data
 
 ## Problem notebook 
+1.  Main problem relates to the **representation and the size of our sample**; there is a download limit imposed by Nexis Uni, which was not explicity mentioned anywhere -> we figured that out after the plan was already agreed upon. This led to further complications:
+  - Thinking that we can download everyhthing we did not think about issues of representation -> ended up with a skewed distribution for some countries
+  - This might also be the case for the year of publication
+  - Clearly, we could've fixed these issues at a later point thorugh a better use of the filters if it wasn't for the download limit
 
+2. Another problem relates to the choice of keywords; we later realized that 'cycle*' can have alternative and unrelated meanings: e.g. electoral cycle
+   
 **Topic choice**
 -   Difficult to narrow down the topic (the problem of overabundance)
 
