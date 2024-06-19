@@ -40,5 +40,5 @@ End result
 - 
 - Topic Model
 - Sentiment analysis
-
+- Tried to do apply novel quantitative text analysis techniques in **MoreThanSentiments**, developed at Walmart in 2022 https://pypi.org/project/MoreThanSentiments/. However, already such a new package faces installation issues. Seemed like an interesting package to work with but not possible to work on this in these time constraints
 
