@@ -1,0 +1,17 @@
+Here the list of dependencies and packages used to do this study 
+
+
+
+- 
+
+
+- 
+
+Packages
+- R
+	quanteda
+	stm
+	tidyverse
+
+
+- Python
