@@ -8,11 +8,22 @@ Here the list of dependencies and packages used to do this study
 - 
 
 Packages
-- R
-	quanteda
-	stm
-	tidyverse
-
-
+- R (version 4.2.2)
+	tokenizers 0.3.0
+	udpipe 0.8.11
+	striprtf 0.6.0
+	quanteda 4.0.2
+	quanteda.sentiment 0.31
+	quanteda.textmodels 0.9.7
+	quanteda.textstats 0.97
+	preText 0.7.2
+	stm 1.3.7
+	tidyverse 2.0.0 ──
+✔ dplyr     1.1.4     ✔ readr     2.1.5
+✔ forcats   1.0.0     ✔ stringr   1.5.1
+✔ ggplot2   3.5.1     ✔ tibble    3.2.1
+✔ lubridate 1.9.3     ✔ tidyr     1.3.1
+✔ purrr     1.0.2  
+	
 - Python
 	nltk
